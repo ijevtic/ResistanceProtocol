@@ -183,3 +183,8 @@ Safe owner is similar to a Leverager, but its boost and repay actions are differ
 ||
 |:---:|
 ![](documentation_images/architecture.png?raw=true "Architecture")
+
+# More information
+
+1. [About NOI](https://miniature-satellite-199.notion.site/About-NOI-b027eee853c44ef9904435ec6900d02f)
+2. [Different markets in the simulation](https://miniature-satellite-199.notion.site/Different-markets-in-simulation-be152af570494cb5afaed8246c56d9d8)
